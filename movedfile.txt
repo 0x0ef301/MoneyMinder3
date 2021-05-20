@@ -1,5 +1,0 @@
-This file is junk and can be deleted or moved with 
-git rm -f, or,
-git mv.
-The use of -f is different for git mv and refers to "force" overwrite,
-instead of force removal from the git index.
