@@ -1,2 +1,3 @@
 [moneyminder3]
-192.168.1.55 # moneyminder3
+10.10.10.10 # moneyminder3
+100.100.100.100 # moneyminder_public
